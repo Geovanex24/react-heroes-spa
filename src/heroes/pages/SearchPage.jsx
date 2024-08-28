@@ -70,6 +70,7 @@ export const SearchPage = () => {
           </div>
 
           <div
+            aria-label="alertErrorMessage"
             className="alert alert-danger animate__animated animate__fadeIn"
             style={{ display: showError ? "" : "none" }}
           >

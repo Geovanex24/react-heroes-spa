@@ -45,6 +45,7 @@ exports[`Pruebas en <SearchPage /> debe de mostrarse correctamente con valores p
         Search a hero
       </div>
       <div
+        aria-label="alertErrorMessage"
         class="alert alert-danger animate__animated animate__fadeIn"
         style="display: none;"
       >
